@@ -27,8 +27,14 @@ Autoexec complet avec (presque) toutes les actions possible
 
 Quelques bind d'entrainement :
 
-infinite_ammo_mode => permet d'alterner entre munition infinie avec ou sans rechargement
-dm_random_weapon => permet d'alterner entre arme aléatoire ou non en match à mort
-showvelocity => permet d'afficher ou cacher la position et la vélocity
+- infinite_ammo_mode => permet d'alterner entre munition infinie avec ou sans rechargement
+- dm_random_weapon => permet d'alterner entre arme aléatoire ou non en match à mort
+- showvelocity => permet d'afficher ou cacher la position et la vélocity
 
-Et quelques binds pour CS:GO TV
+Et quelques binds pour CS:GO TV :
+- slowmotion x0.25
+- slowmotion x0.5
+- break
+- speed x5
+- speed x10
+- go back in time
