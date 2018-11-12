@@ -6,6 +6,9 @@ Principalement utilisé pour s'entrainer sur une map sans ennemis : nades, prés
 ## iliaim.cfg
 Je l'active sur les maps de aim pour voir où partent mes balles
 
+## ilikebhop.cfg
+Utilisé pour s'entrainer aux bhops. Désactive la limite de bhop afin d'apprendre le feeling
+
 ## ilikespray.cfg
 Utilisé pour s'entrainer au spray pattern, désactive l'imprecision naturelle de chaques balles (pour ainsi dévoiler le spray)
 
@@ -35,6 +38,6 @@ Et quelques binds pour CS:GO TV :
 - slowmotion x0.25
 - slowmotion x0.5
 - break
-- speed x5
-- speed x10
+- speed x3
+- speed x20
 - go back in time
